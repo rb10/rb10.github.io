@@ -2,6 +2,8 @@ body {
   font-family: 'helvetica neue', arial, sans-serif;
   font-weight: 300;
   background: url(linedpaper.png) repeat;
+
+
 }
 #wrapper {
   width: 960px;
@@ -10,4 +12,26 @@ body {
 /* Making h1 red*/
 h1,h2,h3 {
 color: red;
+font-variant: small-caps;
 }
+
+h4 {
+	color:blue;
+font-style: italic;
+font-variant: small-caps;
+}
+
+#summary {
+	color: green;
+}
+
+.unicorn {
+	color: purple;
+}
+
+#raman {
+	width: 150px;
+:hover;
+
+}
+
