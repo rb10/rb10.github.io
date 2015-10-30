@@ -7,7 +7,7 @@ body {
   width: 960px;
   margin: 20px auto;
 }
-h1 {
+/* Making h1 red*/
+h1,h2,h3 {
 color: red;
-font-weight:600;
 }
