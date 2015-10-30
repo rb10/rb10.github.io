@@ -10,8 +10,8 @@ body {
   margin: 20px auto;
 }
 /* Making h1 red*/
-h1,h2,h3 {
-color: red;
+h1 {
+color: black;
 font-variant: small-caps;
 }
 
@@ -30,8 +30,8 @@ font-variant: small-caps;
 }
 
 #raman {
-	width: 150px;
-:hover;
+	width: 200px;
+	border-radius: 5px;
 
 }
 
