@@ -25,13 +25,16 @@ font-variant: small-caps;
 	color: green;
 }
 
+#raman {
+	width: 200px;
+	border-radius: 5px;
+}
+
+/* Class */
+
 .unicorn {
 	color: purple;
 }
 
-#raman {
-	width: 200px;
-	border-radius: 5px;
 
-}
 
