@@ -15,12 +15,14 @@ color: black;
 font-variant: small-caps;
 }
 
-h4 {
+h1 {
 	color:blue;
 font-style: italic;
 font-variant: small-caps;
 }
 
+
+/* Id */
 #summary {
 	color: green;
 }
@@ -33,7 +35,10 @@ font-variant: small-caps;
 /* Class */
 
 .unicorn {
-	color: purple;
+	color: red;
+}
+
+
 }
 
 
