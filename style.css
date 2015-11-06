@@ -9,11 +9,7 @@ body {
   width: 960px;
   margin: 20px auto;
 }
-/* Making h1 red*/
-h1 {
-color: black;
-font-variant: small-caps;
-}
+/* Making h1 blue*/
 
 h1 {
 	color:blue;
