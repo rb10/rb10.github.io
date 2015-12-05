@@ -23,15 +23,17 @@ body {
 .SBlogo {
   width: 750px;
   height: auto;
+
 }
 
 .logo_header {
   width: 45px;
   height: auto;
-  border-radius: 5px;
-  padding: 2px;
+  padding-bottom: 5px;
   vertical-align: middle;
+  display: block;
 }
+
 
 h1 {
   font-family: 'Luckiest Guy', arial, cursive;
